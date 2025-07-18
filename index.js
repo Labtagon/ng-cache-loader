@@ -3,7 +3,7 @@
  Author Andrey Koperskiy @teux
  */
 var extend = require("extend");
-var htmlMinifier = require("html-minifier");
+var htmlMinifier = require("html-minifier-next");
 var loaderUtils = require("loader-utils");
 var scriptParser = require('./lib/scriptParser.js');
 var urlParser = require('./lib/urlParser.js');

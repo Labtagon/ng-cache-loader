@@ -202,7 +202,7 @@ Minification is enabled by default. You can switch it off by setting `-minimize`
 ng-cache?-minimize
 ```
 
-The [html-minifier](https://github.com/kangax/html-minifier) is used for templates minification with the default options:
+The [html-minifier-next](https://github.com/j9t/html-minifier-next) is used for templates minification with the default options:
 ```javascript
 {
     removeComments: true,
